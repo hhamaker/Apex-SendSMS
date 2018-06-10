@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>SendSMS</members>
+        <members>SendSMSTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>SMS_User.Test_User</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>SMS_User__mdt</members>
+        <name>CustomObject</name>
+    </types>
+    <version>38.0</version>
+</Package>
